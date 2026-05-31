@@ -41,8 +41,9 @@ Abaixo está o detalhamento de cada um dos 5 passos descritos:
 * **Entrega:** O resultado final gerado pelo NotebookLM deve ser copiado e colado no Google Forms da "Atividade 01".
 * **Tempo estimado:** 5 minutos.
 
-
-
+* **Passo 6: Identificar o gargalo e formular uma hipótese de growth**
+* **O que fazer:** Com base nos insumos levantados anteriormente, identificar o principal gargalo.
+* **Entrega:** O resultado esperado é um documento com o descritivo do principal gargalo identificado e a documentação de uma hipótese de growth para sanar este gargalo".
 ---
 
 > **Informações adicionais do rodapé:** O material é o slide 53 de 55, pertencente à "Aula 01 - Growth Marketing & AI", ministrada pelo professor Wilson Silva.
