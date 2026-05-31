@@ -89,3 +89,5 @@ Esta semana define a sua aprovação. A prova é longa e exige resistência ment
 | 5 a 6 | EC2, Lambda, Bancos de Dados, Cache | Domínio 3 (24%) | Diferenciar quando usar SQL vs NoSQL, EC2 vs Lambda. |
 | 7 | Tiers do S3, Precificação EC2, Cost Explorer | Domínio 4 (20%) | Identificar a arquitetura mais barata para diferentes cenários. |
 | 8 | Simulados, Revisão de Erros, Well-Architected | Todos | Atingir consistentemente $>75\%$ nos testes práticos. |
+
+
